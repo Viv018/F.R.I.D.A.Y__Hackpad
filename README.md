@@ -42,7 +42,7 @@ I named it F.R.I.D.A.Y because I wanted something that feels like a helpful litt
 | M3 screws + heat-set inserts | 4      | For the case                   |
 
 ### Firmware
-This project uses **KMK** (CircuitPython).
+This project uses **QMK**
 
 The firmware is located in the `/Firmware` folder.
 
@@ -51,4 +51,5 @@ The case is a simple two-part sandwich design made in Fusion 360.
 STL/STEP files are available in the `/CAD` and `/production` folders.
 
 ### Credits
-Designed for Hack Club’s Hackpad program.
+Designed for Hack Club’s Hackpad program by BATMANNN BABYYY
+

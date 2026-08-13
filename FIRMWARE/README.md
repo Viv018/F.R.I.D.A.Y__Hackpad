@@ -14,20 +14,6 @@ I named it F.R.I.D.A.Y because I wanted something that feels like a helpful litt
 - Seeeduino XIAO (SAMD21)
 - Fully open source
 
-### Photos
-
-**Overall Design**
-![F.R.I.D.A.Y Render](images/overall.png)
-
-**Schematic**
-![Schematic](images/schematic.png)
-
-**PCB**
-![PCB](friday-pcb-editor-2026-08-10.png)
-
-**Case**
-![Case](images/case.png)
-
 ### Bill of Materials
 
 | Part                        | Quantity | Notes                          |

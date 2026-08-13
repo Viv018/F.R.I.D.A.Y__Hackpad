@@ -23,7 +23,7 @@ I named it F.R.I.D.A.Y because I wanted something that feels like a helpful litt
 ![Schematic](images/schematic.png)
 
 **PCB**
-![PCB](F.R.I.D.A.Y — PCB Editor 8_10_2026 3_42_48 PM.png)
+![PCB](F_R_I_D_A_Y___PCB_Editor_8_10_2026_3_42_48_PM.png)
 
 **Case**
 ![Case](images/case.png)

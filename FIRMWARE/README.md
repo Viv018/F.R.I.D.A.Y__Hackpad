@@ -23,7 +23,8 @@ I named it F.R.I.D.A.Y because I wanted something that feels like a helpful litt
 ![Schematic](images/schematic.png)
 
 **PCB**
-![PCB](images/pcb.png)
+![PCB](<img width="1920" height="966" alt="F R I D A Y — PCB Editor 8_10_2026 3_42_48 PM (1)" src="https://github.com/user-attachments/assets/fc30a773-a280-402c-9867-2068fab1f9ea" />
+)
 
 **Case**
 ![Case](images/case.png)

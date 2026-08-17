@@ -24,7 +24,7 @@ I named it F.R.I.D.A.Y because I wanted something that feels like a helpful litt
 )
 
 **Case**
-![Case](Photo/F.R.I.D.A.Y. PAD_ (KALAYUG) - Autodesk Fusion (Trial ends in 24 days)  8_13_2026 5_06_41 PM.png)
+![Case](Case.png)
 
 ### Bill of Materials
 
